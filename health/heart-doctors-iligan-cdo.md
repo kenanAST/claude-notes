@@ -16,7 +16,8 @@
 | **Training** | Mindanao State University (MD, 2007); Residency at East Avenue Medical Center, QC (2012); Cardiology Fellowship at **Philippine Heart Center** (2015); EP Fellowship at **Philippine Heart Center** (2016); Advanced EP Fellowship at **Changgung Memorial Hospital, Taiwan** (2017) |
 | **Procedures** | Pacemaker implantation/programming, ICD implantation, CRT device placement |
 | **Affiliations** | PCC, PCP, Philippine Heart Rhythm Society, PMA, Misamis Oriental Medical Society |
-| **Clinics** | **CUMC** — Mon/Wed/Fri 3-5 PM; **Polymedic Plaza** — Tue/Thu 3-5 PM |
+| **Clinics** | **CUMC** Room 215 — Mon/Wed/Fri 3-5 PM; **Polymedic Plaza** — Tue/Thu 3-5 PM |
+| **Contact** | Secretary Riezel: **0936-103-0536**; CUMC HMO Dept: 0917-777-1590 |
 | **Fees** | PHP 1,000–1,500 |
 | **Note** | Does NOT accept HMO |
 
@@ -32,7 +33,8 @@
 | **Training** | University of the East — Ramon Magsaysay Memorial Medical Center (MD); Residency at NMMC; TCVS Fellowship at **Philippine Heart Center** |
 | **Current Roles** | Division Head, Cardiothoracic & Vascular Surgery, **NMMC Heart, Lung and Kidney Institute**; Department Head, CTCVS, Polymedic Plaza — Center for Cardiovascular Medicine; Active Consultant, CUMC — LSR Heart Institute |
 | **Affiliations** | Fellow, PATACVS (Philippine Association of Thoracic, Cardiac and Vascular Surgeons); CTSNet member |
-| **Clinic** | CUMC Room 314 — By Appointment (Secretary: Beth — 0935-967-2502) |
+| **Contact** | Secretary Beth: **0935-967-2502** |
+| **Clinic** | CUMC Room 314 — By Appointment |
 
 **JUSTIFICATION:** Ranked #2 because Dr. Rocha is **the only cardiovascular surgeon based in the entire Iligan-CDO region**. He pioneered the NMMC cardiovascular surgery program in 2013 and now heads cardiac surgery at three major facilities (NMMC, Polymedic, CUMC). His training at the Philippine Heart Center — the only institution in the Philippines that produces cardiothoracic surgeons at scale — confirms his surgical credentials. His PATACVS fellowship and CTSNet membership (the global cardiothoracic surgery network) validate his standing. Without him, patients needing CABG (bypass), valve repair/replacement, or congenital heart surgery would need to travel to Davao or Manila. **Irreplaceable — the only one who can perform open-heart surgery locally.**
 
@@ -48,7 +50,8 @@
 | **Current Role** | Head of Research & Non-Invasive Cardiology, NMMC Internal Medicine Department |
 | **Leadership** | Former Chapter President, PHA — Northwestern Mindanao (2018-2020) |
 | **Affiliations** | PMA, PCP, PCC, Philippine Society of Echocardiography |
-| **Clinics** | **Maria Reyna-XUH** — Tue-Wed 2-6 PM; **ACE Medical Center** — Mon/Fri 2-6 PM; **Polymedic Plaza** — Thu 2-6 PM; Online (NowServing) — Wed 2-5 PM |
+| **Clinics** | **Maria Reyna-XUH** — Tue-Wed 2-6 PM; **ACE Medical Center** — Mon/Fri 2-6 PM; **Polymedic Plaza** — Thu 2-6 PM; **CUMC** — Tue/Thu 9 AM-12 PM; Online (NowServing) — Wed 2-5 PM |
+| **Contact** | Secretary Vanessa: **0967-718-8894**; CUMC Room 216; CUMC HMO Dept: 0917-777-1590 |
 | **Fees** | PHP 800–1,000 (Senior/PWD: PHP 800) |
 | **Awards** | Bronze Award, Caring Doctor badge, Good Communicator badge |
 
@@ -65,7 +68,7 @@
 | **Current Role** | **Director, LSR Heart Institute** at Capitol University Medical Center |
 | **Affiliations** | Philippine Heart Association; Council on Cardiovascular Oncology and Acute Cardiovascular Care |
 | **Clinic** | CUMC Room 109 — Mon-Thu 8 AM-12 PM |
-| **Secretary** | Ladylou B. Maandig (0927-954-2935) |
+| **Contact** | Secretary Ladylou B. Maandig: **0927-954-2935**; CUMC HMO Dept: 0917-777-1590 |
 
 **JUSTIFICATION:** Ranked #4 because Dr. Alagadan is the **institutional leader of the most advanced cardiac facility in Northern Mindanao**. As Director of the LSR Heart Institute at CUMC — which houses the first cardiac catheterization laboratory in Northern Mindanao — he oversees the region's most comprehensive cardiovascular care program (7 in-house + 8 visiting cardiologists). His interest in cardiovascular oncology (cancer patients with heart complications) is a rare niche that is increasingly important. **The gatekeeper to the region's most advanced cardiac procedures.**
 
@@ -77,7 +80,8 @@
 |---|---|
 | **Specialization** | Adult Cardiology **AND Critical Care Medicine** (dual-trained) |
 | **Training** | Mindanao State University — College of Medicine (MD, 2010); Residency at Perpetual Succour Hospital — Cebu Heart Institute (2015); Fellowship at **St. Luke's Medical Center, QC** (2020); Fellowship at **Philippine Heart Center** (2022) |
-| **Clinics** | **Maria Reyna-XUH** — Sun/Mon/Wed/Thu 2-3:30 PM (walk-in) |
+| **Clinics** | **Maria Reyna-XUH** Room 68 — Sun/Mon/Wed/Thu 2-3:30 PM (walk-in) |
+| **Contact** | Maria Reyna main line: **(088) 712-445** / (088) 712-664 loc. 624 |
 | **Insurance** | Eastwest Healthcare, Generali, Pacific Cross |
 
 **JUSTIFICATION:** Ranked #5 because Dr. Padate holds a **unique dual fellowship in cardiology AND critical care medicine** — the only doctor in the region with this combination. This makes him uniquely suited for managing the most critically ill cardiac patients (cardiogenic shock, post-cardiac arrest, acute heart failure). He trained at two of the Philippines' top three cardiac centers: St. Luke's AND the Philippine Heart Center. His 2022 fellowship completion means he brings the most up-to-date clinical knowledge to CDO. **The one you want managing a cardiac emergency in the ICU.**
@@ -93,6 +97,7 @@
 | **Training** | Cebu Institute of Medicine (MD, 2002); Residency at Cebu (Velez) General Hospital (2006); Fellowship in Adult Cardiology at **Philippine Heart Center** (2010) |
 | **Affiliations** | PMA, PCP, PCC, Philippine Heart Association, Iligan Medical Society |
 | **Clinics** | **Mercy Community Hospital** — Mon-Thu 9 AM-12 PM, Fri 10 AM-1 PM; **Adventist Medical Center-Iligan** — Mon/Tue/Thu 5-9 PM, Wed 3-6 PM |
+| **Contact** | Mercy Hospital: **(063) 221-8375** / 221-8374 / 221-1154; Adventist MC: **(063) 221-3029** / Emergency: 221-3636 |
 | **Consult Type** | Walk-in & Appointment |
 | **Awards** | Bronze Award for Successful Consultations (SeriousMD) |
 
@@ -108,7 +113,8 @@
 | **Experience** | ~22 years (15 as cardiologist) |
 | **Training** | Mindanao State University — College of Medicine (MD, 2003); Residency at **UP-Philippine General Hospital** (2007); Fellowship at **UP-Philippine General Hospital** (2011) |
 | **Affiliations** | PCP, Philippine Heart Association, Iligan Medical Society |
-| **Clinics** | **Adventist Medical Center-Iligan** — Mon-Fri 8:30 AM-4 PM (appointment); **Mercy Community Hospital** — Mon-Fri (appointment) |
+| **Clinics** | **Adventist Medical Center-Iligan** — Mon-Fri 8:30 AM-4 PM (appointment); **Mercy Community Hospital** Room 6/7 Providence Bldg 3F — Mon-Fri 9 AM-4 PM (appointment) |
+| **Contact** | Mercy Hospital: **(063) 221-8375** / 221-8374; Adventist MC: **(063) 221-3029** |
 | **Fees** | PHP 500 per visit |
 
 **JUSTIFICATION:** Ranked #7 because Dr. Sun brings **UP-PGH training** to Iligan — the University of the Philippines-Philippine General Hospital is the country's top teaching hospital. Her residency AND fellowship were both completed at PGH, giving her an exceptionally rigorous academic foundation. At PHP 500 per consultation, she is the **most affordable cardiologist in the entire Iligan-CDO corridor**. Her full weekday availability (8:30 AM-4 PM) makes her the most accessible for daytime patients. **Best combination of elite academic credentials and affordability.**
@@ -122,7 +128,8 @@
 | **Specialization** | Adult Cardiology (General) |
 | **Experience** | 5+ years |
 | **Training** | Xavier University — Dr. Jose P. Rizal School of Medicine (MD, 2013); Residency at Maria Reyna-XUH (2017); Fellowship at **Heart Institute, St. Luke's Medical Center Global City** (2021) |
-| **Clinics** | **Maria Reyna-XUH** — Mon/Tue/Thu/Fri 10 AM-12 PM; **ACE Medical Center** — Thu/Sat 2-5 PM |
+| **Clinics** | **Maria Reyna-XUH** Room 53, 3F Medical Specialty Center — Mon/Tue/Thu/Fri 10 AM-12 PM; **ACE Medical Center** Room 405, 4F — Thu/Sat 2-5 PM |
+| **Contact** | Secretary Lean Nicole Flores; ACE MC Info Desk: **0917-717-4215**; Maria Reyna: **(088) 712-445** |
 | **Fees** | PHP 600–800 |
 | **HMO** | Accepts 11+ HMO providers (Allianz, AVEGA, Aventus, Cocolife, Generali, Insular Life, Intellicare, Kaiser, Maxicare, MediCard, etc.) |
 
@@ -137,6 +144,7 @@
 | **Specialization** | **Interventional Cardiology** (catheter-based procedures) |
 | **Training** | Xavier University — Ateneo de Cagayan (MD) |
 | **Clinics** | **ACE Medical Center CDO**; **Polymedic Medical Plaza** Room 111 — Tue 9 AM-2 PM (walk-in) |
+| **Contact** | ACE MC Info Desk: **0917-717-4215**; Polymedic: **(088) 858-5243** / 0917-173-2296 |
 | **Fees** | PHP 700 |
 
 **JUSTIFICATION:** Ranked #9 because Dr. Daud is one of the **few interventional cardiologists in CDO** — the subspecialty that performs angioplasty, coronary stenting, and other catheter-based procedures. For patients with blocked coronary arteries who need stent placement without open-heart surgery, an interventional cardiologist is essential. Ranked lower due to limited publicly available credentials and an inactive SeriousMD profile at time of research. **Verify current availability directly before visiting.**
