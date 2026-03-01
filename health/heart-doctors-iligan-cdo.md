@@ -1,56 +1,44 @@
 # Best Heart Doctors in Iligan City & Cagayan de Oro (CDO)
 
 *Research compiled: March 1, 2026 — 3 parallel research agents + lead researcher*
+*Ranked by overall recommendation strength (credentials, uniqueness, impact)*
 
 ---
 
-## ILIGAN CITY
+## TOP 10 HEART DOCTORS — RANKED
 
-### 1. Dr. Michelle Remerata, MD, FPCP, FPCC
+### 1. Dr. Debra P. Urbina, MD, FPCP, FPCC, FPHRS — CDO
 
 | Detail | Info |
 |---|---|
-| **Specialization** | Internal Medicine & Adult Cardiology |
-| **Experience** | ~16 years (14 as cardiologist) |
-| **Training** | Cebu Institute of Medicine (MD, 2002); Residency at Cebu (Velez) General Hospital (2006); Fellowship in Adult Cardiology at **Philippine Heart Center** (2010) |
-| **Affiliations** | PMA, PCP, PCC, Philippine Heart Association, Iligan Medical Society |
-| **Clinics** | **Mercy Community Hospital** — Mon-Thu 9 AM-12 PM, Fri 10 AM-1 PM; **Adventist Medical Center-Iligan** — Mon/Tue/Thu 5-9 PM, Wed 3-6 PM |
-| **Consult Type** | Walk-in & Appointment |
-| **Awards** | Bronze Award for Successful Consultations (SeriousMD) |
+| **Specialization** | **Electrophysiology** — Arrhythmia, Pacemaker & Defibrillator Specialist |
+| **Experience** | 10+ years |
+| **Training** | Mindanao State University (MD, 2007); Residency at East Avenue Medical Center, QC (2012); Cardiology Fellowship at **Philippine Heart Center** (2015); EP Fellowship at **Philippine Heart Center** (2016); Advanced EP Fellowship at **Changgung Memorial Hospital, Taiwan** (2017) |
+| **Procedures** | Pacemaker implantation/programming, ICD implantation, CRT device placement |
+| **Affiliations** | PCC, PCP, Philippine Heart Rhythm Society, PMA, Misamis Oriental Medical Society |
+| **Clinics** | **CUMC** — Mon/Wed/Fri 3-5 PM; **Polymedic Plaza** — Tue/Thu 3-5 PM |
+| **Fees** | PHP 1,000–1,500 |
+| **Note** | Does NOT accept HMO |
 
-**JUSTIFICATION:** Dr. Remerata is the **senior cardiologist in Iligan City** with the longest track record. Her fellowship at the Philippine Heart Center — the country's premier cardiac institution — validates her clinical depth. With 16 years of practice, she has the most experience of any Iligan-based cardiologist. Her broad weekly availability across two hospitals (morning at Mercy, evenings at Adventist) makes her highly accessible. She holds dual fellowships (FPCP + FPCC), confirming board certification in both internal medicine and cardiology. For Iligan residents, she is the most proven choice.
+**JUSTIFICATION:** Ranked #1 because Dr. Urbina is **the only fellowship-trained electrophysiologist in Northern Mindanao** — and possibly all of Mindanao outside Davao. Her subspecialty is exceptionally rare: she completed EP training both at the Philippine Heart Center AND internationally at Changgung Memorial Hospital in Taiwan, giving her dual exposure to Filipino and Taiwanese cardiac rhythm management techniques. She is the only doctor in the region who can implant and program pacemakers, ICDs, and CRT devices. Without her, patients with arrhythmias or device needs would have to fly to Manila or Cebu. Her FPHRS credential (Philippine Heart Rhythm Society) confirms her specialized standing. **Irreplaceable — no substitute exists within the region.**
 
 ---
 
-### 2. Dr. Jill Irene (Capistrano-)Sun, MD, FPCP, FPCC
+### 2. Dr. Bernard Julius A. Rocha, MD — CDO (Cardiovascular Surgeon)
 
 | Detail | Info |
 |---|---|
-| **Specialization** | Adult Cardiology (General/Non-Invasive) |
-| **Experience** | ~22 years (15 as cardiologist) |
-| **Training** | Mindanao State University — College of Medicine (MD, 2003); Residency at **UP-Philippine General Hospital** (2007); Fellowship at **UP-Philippine General Hospital** (2011) |
-| **Affiliations** | PCP, Philippine Heart Association, Iligan Medical Society |
-| **Clinics** | **Adventist Medical Center-Iligan** — Mon-Fri 8:30 AM-4 PM (appointment); **Mercy Community Hospital** — Mon-Fri (appointment) |
-| **Fees** | PHP 500 per visit |
+| **Specialization** | **Thoracic & Cardiovascular Surgery** |
+| **Training** | University of the East — Ramon Magsaysay Memorial Medical Center (MD); Residency at NMMC; TCVS Fellowship at **Philippine Heart Center** |
+| **Current Roles** | Division Head, Cardiothoracic & Vascular Surgery, **NMMC Heart, Lung and Kidney Institute**; Department Head, CTCVS, Polymedic Plaza — Center for Cardiovascular Medicine; Active Consultant, CUMC — LSR Heart Institute |
+| **Affiliations** | Fellow, PATACVS (Philippine Association of Thoracic, Cardiac and Vascular Surgeons); CTSNet member |
+| **Clinic** | CUMC Room 314 — By Appointment (Secretary: Beth — 0935-967-2502) |
 
-**JUSTIFICATION:** Dr. Sun brings **UP-PGH training** to Iligan — the University of the Philippines-Philippine General Hospital is the country's top teaching hospital and produces some of the best-trained physicians in the Philippines. Her residency AND fellowship were both completed at PGH, giving her an exceptionally rigorous academic foundation. At PHP 500 per consultation, she is also the **most affordable cardiologist** in the entire Iligan-CDO corridor. Her full weekday availability at Adventist Medical Center (8:30 AM-4 PM) makes her the most accessible doctor for daytime patients. An excellent choice for patients seeking top academic credentials at a budget-friendly price.
-
----
-
-### 3. Dr. Dy Chu Tee — Pediatric Cardiologist
-
-| Detail | Info |
-|---|---|
-| **Specialization** | **Pediatric Cardiology** |
-| **Clinic** | Dy Chu Tee's Clinic, Iligan City |
-
-**JUSTIFICATION:** Dr. Dy Chu Tee is noted as the **only pediatric cardiologist in Iligan City**. For families with children who have congenital heart defects or other pediatric cardiac conditions, this doctor is the sole local resource — the alternative is traveling to CDO or Manila. Limited public information is available about credentials, so direct verification with the clinic is recommended.
+**JUSTIFICATION:** Ranked #2 because Dr. Rocha is **the only cardiovascular surgeon based in the entire Iligan-CDO region**. He pioneered the NMMC cardiovascular surgery program in 2013 and now heads cardiac surgery at three major facilities (NMMC, Polymedic, CUMC). His training at the Philippine Heart Center — the only institution in the Philippines that produces cardiothoracic surgeons at scale — confirms his surgical credentials. His PATACVS fellowship and CTSNet membership (the global cardiothoracic surgery network) validate his standing. Without him, patients needing CABG (bypass), valve repair/replacement, or congenital heart surgery would need to travel to Davao or Manila. **Irreplaceable — the only one who can perform open-heart surgery locally.**
 
 ---
 
-## CAGAYAN DE ORO (CDO) — TOP TIER
-
-### 4. Dr. Roy Sasil Jr., MD, FPCC, FPCP, FPSE
+### 3. Dr. Roy Sasil Jr., MD, FPCC, FPCP, FPSE — CDO
 
 | Detail | Info |
 |---|---|
@@ -64,41 +52,11 @@
 | **Fees** | PHP 800–1,000 (Senior/PWD: PHP 800) |
 | **Awards** | Bronze Award, Caring Doctor badge, Good Communicator badge |
 
-**JUSTIFICATION:** Dr. Sasil is the **most accessible and well-rounded cardiologist in CDO**, practicing across 4 locations (Maria Reyna, ACE, Polymedic, and online). His 4-year fellowship at the Philippine Heart Center is among the longest specialized cardiology training programs. As NMMC's Head of Research and Non-Invasive Cardiology, he runs the cardiac diagnostic operations at the region's largest government hospital. His former presidency of the PHA Northwestern Mindanao chapter signals peer recognition as a clinical leader. His FPSE credential (Fellow, Philippine Society of Echocardiography) adds specialized imaging expertise. Best for: **initial cardiac evaluations, echo studies, and ongoing heart disease management.**
+**JUSTIFICATION:** Ranked #3 because Dr. Sasil is the **region's leading diagnostic cardiologist and clinical leader**. His 4-year fellowship at the Philippine Heart Center is among the longest specialized cardiology training programs. As NMMC's Head of Research and Non-Invasive Cardiology, he runs cardiac diagnostics at the region's largest government hospital. His former PHA chapter presidency signals peer recognition. He practices across 4 locations (the most of any doctor on this list) including online consultations, making him the most accessible cardiologist in the corridor. His FPSE credential adds specialized echo imaging expertise. **The go-to doctor for initial cardiac evaluations and ongoing management.**
 
 ---
 
-### 5. Dr. Debra P. Urbina, MD, FPCP, FPCC, FPHRS
-
-| Detail | Info |
-|---|---|
-| **Specialization** | **Electrophysiology** — Arrhythmia, Pacemaker & Defibrillator Specialist |
-| **Experience** | 10+ years |
-| **Training** | Mindanao State University (MD, 2007); Residency at East Avenue Medical Center, QC (2012); Cardiology Fellowship at **Philippine Heart Center** (2015); EP Fellowship at **Philippine Heart Center** (2016); Advanced EP Fellowship at **Changgung Memorial Hospital, Taiwan** (2017) |
-| **Procedures** | Pacemaker implantation/programming, ICD implantation, CRT device placement |
-| **Affiliations** | PCC, PCP, Philippine Heart Rhythm Society, PMA, Misamis Oriental Medical Society |
-| **Clinics** | **CUMC** — Mon/Wed/Fri 3-5 PM; **Polymedic Plaza** — Tue/Thu 3-5 PM |
-| **Fees** | PHP 1,000–1,500 |
-| **Note** | Does NOT accept HMO |
-
-**JUSTIFICATION:** Dr. Urbina is **the only fellowship-trained electrophysiologist in Northern Mindanao** — and possibly all of Mindanao outside Davao. Her subspecialty is exceptionally rare: she completed EP training both at the Philippine Heart Center AND internationally at Changgung Memorial Hospital in Taiwan, giving her dual exposure to Filipino and Taiwanese cardiac rhythm management techniques. She is the only doctor in the region who can implant and program pacemakers, ICDs, and CRT devices. Without her, patients with arrhythmias or device needs would have to fly to Manila or Cebu. Her FPHRS credential (Philippine Heart Rhythm Society) confirms her specialized standing. Best for: **arrhythmias, palpitations, pacemaker/ICD needs, and complex rhythm disorders.**
-
----
-
-### 6. Dr. Intizar M. Padate, MD, FPCP, FPCC, FPSCCM
-
-| Detail | Info |
-|---|---|
-| **Specialization** | Adult Cardiology **AND Critical Care Medicine** (dual-trained) |
-| **Training** | Mindanao State University — College of Medicine (MD, 2010); Residency at Perpetual Succour Hospital — Cebu Heart Institute (2015); Fellowship at **St. Luke's Medical Center, QC** (2020); Fellowship at **Philippine Heart Center** (2022) |
-| **Clinics** | **Maria Reyna-XUH** — Sun/Mon/Wed/Thu 2-3:30 PM (walk-in) |
-| **Insurance** | Eastwest Healthcare, Generali, Pacific Cross |
-
-**JUSTIFICATION:** Dr. Padate holds a **unique dual fellowship in cardiology AND critical care medicine** — the only doctor in the region with this combination. This makes him uniquely suited for managing the most critically ill cardiac patients (cardiogenic shock, post-cardiac arrest, acute heart failure). He trained at two of the Philippines' top three cardiac centers: St. Luke's Medical Center AND the Philippine Heart Center. His relatively recent fellowship completion (2022) means he brings the most up-to-date clinical knowledge to CDO. Best for: **critically ill cardiac patients, acute heart emergencies, and complex cases requiring ICU-level cardiac expertise.**
-
----
-
-### 7. Dr. Renato R. Alagadan, MD, FPCP, FPCC
+### 4. Dr. Renato R. Alagadan, MD, FPCP, FPCC — CDO
 
 | Detail | Info |
 |---|---|
@@ -109,11 +67,55 @@
 | **Clinic** | CUMC Room 109 — Mon-Thu 8 AM-12 PM |
 | **Secretary** | Ladylou B. Maandig (0927-954-2935) |
 
-**JUSTIFICATION:** Dr. Alagadan is the **institutional leader of the most advanced cardiac facility in Northern Mindanao**. As Director of the LSR Heart Institute at CUMC — which houses the first cardiac catheterization laboratory in Northern Mindanao — he oversees the region's most comprehensive cardiovascular care program (7 in-house + 8 visiting cardiologists). His interest in cardiovascular oncology (cancer patients with heart complications) is a rare niche that is increasingly important as cancer survival rates improve. Best for: **comprehensive cardiac workups, cath lab referrals, and cancer patients with cardiac complications.**
+**JUSTIFICATION:** Ranked #4 because Dr. Alagadan is the **institutional leader of the most advanced cardiac facility in Northern Mindanao**. As Director of the LSR Heart Institute at CUMC — which houses the first cardiac catheterization laboratory in Northern Mindanao — he oversees the region's most comprehensive cardiovascular care program (7 in-house + 8 visiting cardiologists). His interest in cardiovascular oncology (cancer patients with heart complications) is a rare niche that is increasingly important. **The gatekeeper to the region's most advanced cardiac procedures.**
 
 ---
 
-### 8. Dr. Ralph P. Yap, MD, FPCP, DPCC
+### 5. Dr. Intizar M. Padate, MD, FPCP, FPCC, FPSCCM — CDO
+
+| Detail | Info |
+|---|---|
+| **Specialization** | Adult Cardiology **AND Critical Care Medicine** (dual-trained) |
+| **Training** | Mindanao State University — College of Medicine (MD, 2010); Residency at Perpetual Succour Hospital — Cebu Heart Institute (2015); Fellowship at **St. Luke's Medical Center, QC** (2020); Fellowship at **Philippine Heart Center** (2022) |
+| **Clinics** | **Maria Reyna-XUH** — Sun/Mon/Wed/Thu 2-3:30 PM (walk-in) |
+| **Insurance** | Eastwest Healthcare, Generali, Pacific Cross |
+
+**JUSTIFICATION:** Ranked #5 because Dr. Padate holds a **unique dual fellowship in cardiology AND critical care medicine** — the only doctor in the region with this combination. This makes him uniquely suited for managing the most critically ill cardiac patients (cardiogenic shock, post-cardiac arrest, acute heart failure). He trained at two of the Philippines' top three cardiac centers: St. Luke's AND the Philippine Heart Center. His 2022 fellowship completion means he brings the most up-to-date clinical knowledge to CDO. **The one you want managing a cardiac emergency in the ICU.**
+
+---
+
+### 6. Dr. Michelle Remerata, MD, FPCP, FPCC — Iligan City
+
+| Detail | Info |
+|---|---|
+| **Specialization** | Internal Medicine & Adult Cardiology |
+| **Experience** | ~16 years (14 as cardiologist) |
+| **Training** | Cebu Institute of Medicine (MD, 2002); Residency at Cebu (Velez) General Hospital (2006); Fellowship in Adult Cardiology at **Philippine Heart Center** (2010) |
+| **Affiliations** | PMA, PCP, PCC, Philippine Heart Association, Iligan Medical Society |
+| **Clinics** | **Mercy Community Hospital** — Mon-Thu 9 AM-12 PM, Fri 10 AM-1 PM; **Adventist Medical Center-Iligan** — Mon/Tue/Thu 5-9 PM, Wed 3-6 PM |
+| **Consult Type** | Walk-in & Appointment |
+| **Awards** | Bronze Award for Successful Consultations (SeriousMD) |
+
+**JUSTIFICATION:** Ranked #6 because Dr. Remerata is the **senior cardiologist in Iligan City** with the longest track record. Her fellowship at the Philippine Heart Center validates her clinical depth. With 16 years of practice, she has the most experience of any Iligan-based cardiologist. Her broad weekly availability across two hospitals (morning at Mercy, evenings at Adventist) makes her highly accessible. She holds dual fellowships (FPCP + FPCC), confirming board certification in both internal medicine and cardiology. **The #1 choice for Iligan residents who need cardiac care without traveling to CDO.**
+
+---
+
+### 7. Dr. Jill Irene (Capistrano-)Sun, MD, FPCP, FPCC — Iligan City
+
+| Detail | Info |
+|---|---|
+| **Specialization** | Adult Cardiology (General/Non-Invasive) |
+| **Experience** | ~22 years (15 as cardiologist) |
+| **Training** | Mindanao State University — College of Medicine (MD, 2003); Residency at **UP-Philippine General Hospital** (2007); Fellowship at **UP-Philippine General Hospital** (2011) |
+| **Affiliations** | PCP, Philippine Heart Association, Iligan Medical Society |
+| **Clinics** | **Adventist Medical Center-Iligan** — Mon-Fri 8:30 AM-4 PM (appointment); **Mercy Community Hospital** — Mon-Fri (appointment) |
+| **Fees** | PHP 500 per visit |
+
+**JUSTIFICATION:** Ranked #7 because Dr. Sun brings **UP-PGH training** to Iligan — the University of the Philippines-Philippine General Hospital is the country's top teaching hospital. Her residency AND fellowship were both completed at PGH, giving her an exceptionally rigorous academic foundation. At PHP 500 per consultation, she is the **most affordable cardiologist in the entire Iligan-CDO corridor**. Her full weekday availability (8:30 AM-4 PM) makes her the most accessible for daytime patients. **Best combination of elite academic credentials and affordability.**
+
+---
+
+### 8. Dr. Ralph P. Yap, MD, FPCP, DPCC — CDO
 
 | Detail | Info |
 |---|---|
@@ -124,11 +126,11 @@
 | **Fees** | PHP 600–800 |
 | **HMO** | Accepts 11+ HMO providers (Allianz, AVEGA, Aventus, Cocolife, Generali, Insular Life, Intellicare, Kaiser, Maxicare, MediCard, etc.) |
 
-**JUSTIFICATION:** Dr. Yap offers the **best value proposition in CDO cardiology** — top-tier training at St. Luke's Medical Center Global City (one of the Philippines' premier private cardiac centers) at the lowest consultation fees (PHP 600-800). He accepts the widest range of HMO providers (11+), making him the most financially accessible specialist for insured patients. As a local Xavier University medical graduate who returned to practice in CDO, he is invested in the community. His own professional website (ralphyapmd.com) also signals a patient-centered, modern approach to practice. Best for: **routine cardiac consultations, patients with HMO coverage, and those seeking affordable specialist care.**
+**JUSTIFICATION:** Ranked #8 because Dr. Yap offers the **best value proposition in CDO cardiology** — top-tier training at St. Luke's Medical Center Global City at the lowest CDO consultation fees (PHP 600-800). He accepts the widest range of HMO providers (11+), making him the most financially accessible specialist for insured patients. As a local Xavier University graduate who returned to practice in CDO, he is invested in the community. **Best for routine consultations, HMO patients, and those seeking quality care on a budget.**
 
 ---
 
-### 9. Dr. Nashiba M. Daud, MD — Interventional Cardiologist
+### 9. Dr. Nashiba M. Daud, MD — CDO (Interventional Cardiologist)
 
 | Detail | Info |
 |---|---|
@@ -137,21 +139,18 @@
 | **Clinics** | **ACE Medical Center CDO**; **Polymedic Medical Plaza** Room 111 — Tue 9 AM-2 PM (walk-in) |
 | **Fees** | PHP 700 |
 
-**JUSTIFICATION:** Dr. Daud is identified as one of the **few interventional cardiologists in CDO** — the subspecialty that performs angioplasty, coronary stenting, and other catheter-based procedures. For patients diagnosed with blocked coronary arteries who need stent placement without open-heart surgery, an interventional cardiologist is essential. Note: her SeriousMD profile was marked as inactive at time of research — verify current availability directly. Best for: **coronary angioplasty, stent placement, and catheter-based cardiac interventions.**
+**JUSTIFICATION:** Ranked #9 because Dr. Daud is one of the **few interventional cardiologists in CDO** — the subspecialty that performs angioplasty, coronary stenting, and other catheter-based procedures. For patients with blocked coronary arteries who need stent placement without open-heart surgery, an interventional cardiologist is essential. Ranked lower due to limited publicly available credentials and an inactive SeriousMD profile at time of research. **Verify current availability directly before visiting.**
 
 ---
 
-### 10. Dr. Bernard Julius A. Rocha, MD — Cardiovascular Surgeon
+### 10. Dr. Dy Chu Tee — Iligan City (Pediatric Cardiologist)
 
 | Detail | Info |
 |---|---|
-| **Specialization** | **Thoracic & Cardiovascular Surgery** |
-| **Training** | University of the East — Ramon Magsaysay Memorial Medical Center (MD); Residency at NMMC; TCVS Fellowship at **Philippine Heart Center** |
-| **Current Roles** | Division Head, Cardiothoracic & Vascular Surgery, **NMMC Heart, Lung and Kidney Institute**; Department Head, CTCVS, Polymedic Plaza — Center for Cardiovascular Medicine; Active Consultant, CUMC — LSR Heart Institute |
-| **Affiliations** | Fellow, PATACVS (Philippine Association of Thoracic, Cardiac and Vascular Surgeons); CTSNet member |
-| **Clinic** | CUMC Room 314 — By Appointment (Secretary: Beth — 0935-967-2502) |
+| **Specialization** | **Pediatric Cardiology** |
+| **Clinic** | Dy Chu Tee's Clinic, Iligan City |
 
-**JUSTIFICATION:** Dr. Rocha is **the only cardiovascular surgeon based in the entire Iligan-CDO region**. He pioneered the NMMC cardiovascular surgery program in 2013 and now heads cardiac surgery at three major facilities (NMMC, Polymedic, CUMC). His training at the Philippine Heart Center — the only institution in the Philippines that produces cardiothoracic surgeons at scale — confirms his surgical credentials. His PATACVS fellowship and CTSNet membership (the global cardiothoracic surgery network) validate his standing. Without him, patients needing CABG (bypass), valve repair/replacement, or congenital heart surgery would need to travel to Davao or Manila. Best for: **bypass surgery, valve surgery, congenital heart repair, and all cardiac surgical cases.**
+**JUSTIFICATION:** Ranked #10 because while credential details are limited online, Dr. Dy Chu Tee is the **only pediatric cardiologist in Iligan City**. For families with children who have congenital heart defects or other pediatric cardiac conditions, this doctor is the sole local resource — the alternative is traveling to CDO or Manila. Ranked lower due to lack of publicly verifiable credentials. **Essential niche — verify credentials directly with the clinic.**
 
 ---
 
@@ -211,15 +210,15 @@
 
 | Need | Go To | Doctor(s) |
 |---|---|---|
-| **General cardiac checkup (Iligan)** | Adventist or Mercy, Iligan | Dr. Michelle Remerata or Dr. Jill Irene Sun |
-| **General cardiac checkup (CDO)** | Maria Reyna, ACE, or Polymedic | Dr. Roy Sasil Jr. or Dr. Ralph Yap |
-| **Budget-friendly consult** | Adventist, Iligan (PHP 500) or ACE/Maria Reyna CDO (PHP 600-800) | Dr. Jill Irene Sun (cheapest) or Dr. Ralph Yap (most HMOs) |
-| **Arrhythmia / Pacemaker / ICD** | CUMC or Polymedic, CDO | **Dr. Debra Urbina** (only EP specialist) |
-| **Cardiac catheterization / Angiography** | CUMC LSR Heart Institute | **Dr. Renato Alagadan** (Director) |
-| **Coronary stenting / Angioplasty** | ACE or Polymedic, CDO | **Dr. Nashiba Daud** (verify availability) |
-| **Cardiac surgery (bypass, valve, congenital)** | CUMC or NMMC, CDO | **Dr. Bernard Julius Rocha** (only surgeon) |
-| **Critical / ICU cardiac emergency** | Maria Reyna, CDO | **Dr. Intizar Padate** (cardio + critical care) |
-| **Pediatric heart condition (Iligan)** | Dy Chu Tee's Clinic, Iligan | **Dr. Dy Chu Tee** (only pediatric cardiologist) |
+| **Arrhythmia / Pacemaker / ICD** | CUMC or Polymedic, CDO | **#1 Dr. Debra Urbina** (only EP specialist) |
+| **Cardiac surgery (bypass, valve, congenital)** | CUMC or NMMC, CDO | **#2 Dr. Bernard Julius Rocha** (only surgeon) |
+| **General cardiac checkup (CDO)** | Maria Reyna, ACE, or Polymedic | **#3 Dr. Roy Sasil Jr.** or #8 Dr. Ralph Yap |
+| **Cardiac catheterization / Angiography** | CUMC LSR Heart Institute | **#4 Dr. Renato Alagadan** (Director) |
+| **Critical / ICU cardiac emergency** | Maria Reyna, CDO | **#5 Dr. Intizar Padate** (cardio + critical care) |
+| **General cardiac checkup (Iligan)** | Adventist or Mercy, Iligan | **#6 Dr. Michelle Remerata** or #7 Dr. Jill Irene Sun |
+| **Budget-friendly consult** | Adventist, Iligan (PHP 500) or ACE/Maria Reyna CDO (PHP 600-800) | **#7 Dr. Jill Irene Sun** (cheapest) or #8 Dr. Ralph Yap (most HMOs) |
+| **Coronary stenting / Angioplasty** | ACE or Polymedic, CDO | **#9 Dr. Nashiba Daud** (verify availability) |
+| **Pediatric heart condition (Iligan)** | Dy Chu Tee's Clinic, Iligan | **#10 Dr. Dy Chu Tee** (only pediatric cardiologist) |
 
 ---
 
